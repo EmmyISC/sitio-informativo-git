@@ -1,0 +1,4 @@
+Objetivo del proyecto: Tner una pagina web de la tienda 
+Publico al que va dirigido: Para jovenes
+Caracteristicas: Ropa estilo urbana, zapatos y accesorios. 
+
